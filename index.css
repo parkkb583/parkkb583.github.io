@@ -1,0 +1,49 @@
+nav ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+nav li a {
+	text-decoration: none;
+	color: black;
+}
+
+nav li a:hover {
+	color: grey;
+}
+
+.background {
+		background-image: url('./img/background.gif');
+}
+
+.title {
+	background-color: rgba(0, 0, 0, .2);
+	text-align: center;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+.title h1 {
+	color: #666666;
+	font-size: 41pt;
+	margin: 0px;
+	padding-bottom: 20px;
+	border-bottom: solid 12px rgb(253, 216, 53);
+}
+
+.title p {
+	color: white;
+	font-size: 18pt;
+	margin: 15px 0px 0px 0px;
+}
+
+.buttons input {
+	background-color: black;
+	color: white;
+}
+
+.copyrights {
+	background-color: rgb(244, 244,244);
+	color: #212121;
+	font-size: 9pt;
+}
